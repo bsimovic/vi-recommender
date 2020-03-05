@@ -1,0 +1,107 @@
+[
+    {
+        "id_": 0,
+        "naziv": "The Lord of the Rings",
+        "tagovi": ["avantura", "fantastika"]
+    },
+    {
+        "id_": 1,
+        "naziv": "Star Wars",
+        "tagovi": ["scifi", "avantura"]
+    },
+	{
+        "id_": 2,
+        "naziv": "Bad boys for Life",
+        "tagovi": ["akcija", "komedija", "krimi"]
+    },
+	{
+        "id_": 3,
+        "naziv": "Dolittle",
+        "tagovi": ["komedija", "fantastika", "avantura", "porodicni"]
+    },
+	{
+        "id_": 4,
+        "naziv": "The Gentlemen",
+        "tagovi": ["akcija", "krimi"]
+    },
+	{
+        "id_": 5,
+        "naziv": "Code 8",
+        "tagovi": ["akcija", "scifi", "triler"]
+    },
+	{
+        "id_": 6,
+        "naziv": "Last Christmas",
+        "tagovi": ["drama", "komedija", "romantika"]
+    },
+	{
+        "id_": 7,
+        "naziv": "Noelle",
+        "tagovi": ["komedija", "avantura", "romantika", "porodicni"]
+    },
+	{
+        "id_": 8,
+        "naziv": "The Shawshank Redemption",
+        "tagovi": ["drama"]
+    },
+	{
+        "id_": 9,
+        "naziv": "The Godfather",
+        "tagovi": ["krimi", "drama"]
+    },
+	{
+        "id_": 10,
+        "naziv": "The Dark Knight",
+        "tagovi": ["akcija", "krimi", "drama"]
+    },
+	{
+        "id_": 11,
+        "naziv": "Pulp Fiction",
+        "tagovi": ["krimi", "drama"]
+    },
+	{
+        "id_": 12,
+        "naziv": "The Matrix",
+        "tagovi": ["akcija", "scifi"]
+    },
+	{
+        "id_": 13,
+        "naziv": "Spirited Away",
+        "tagovi": ["animirani", "avantura", "porodicni"]
+    },
+	{
+        "id_": 14,
+        "naziv": "Toy Story",
+        "tagovi": ["animirani", "avantura", "komedija"]
+    },
+	{
+        "id_": 15,
+        "naziv": "Coco",
+        "tagovi": ["animirani", "avantura", "porodicni"]
+    },
+	{
+        "id_": 16,
+        "naziv": "Star Wars: Episode VI - Return of the Jedi",
+        "tagovi": ["akcija", "avantura", "fantastika"]
+    },
+	{
+        "id_": 17,
+        "naziv": "Amadeus",
+        "tagovi": ["biografija", "drama", "istorijski"]
+    },
+	{
+        "id_": 18,
+        "naziv": "Vertigo",
+        "tagovi": ["misterija", "romantika", "triler"]
+    },
+	{
+        "id_": 19,
+        "naziv": "Good Will Hunting",
+        "tagovi": ["drama", "romantika"]
+    },
+	{
+        "id_": 20,
+        "naziv": "Reservoir Dogs",
+        "tagovi": ["krimi", "drama", "triler"]
+    }
+]

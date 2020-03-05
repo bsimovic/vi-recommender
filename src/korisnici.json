@@ -1,0 +1,43 @@
+[
+    {
+        "username": "pera",
+        "likes": [6, 12, 9, 20],
+        "tagovi": ["komedija", "krimi", "fantastika"]
+    },
+	{
+        "username": "branko",
+        "likes": [7, 12, 15, 16],
+        "tagovi": ["animirani", "avantura"]
+    },
+	{
+        "username": "radisa",
+        "likes": [7, 8, 18],
+        "tagovi": ["drama", "romantika"]
+    },
+	{
+        "username": "stamen",
+        "likes": [3, 14, 18],
+        "tagovi": ["komedija"]
+    },
+	{
+        "username": "komsa",
+        "likes": [],
+        "tagovi": ["scifi", "avantura"]
+    },
+	{
+        "username": "jelena",
+        "likes": [5, 7, 12, 18, 19],
+        "tagovi": ["romantika", "istorijski"]
+    },
+	{
+        "username": "vlatko",
+        "likes": [5, 10, 13],
+        "tagovi": ["porodicni", "akcija"]
+    },
+	{
+        "username": "stefan",
+        "likes": [10, 13, 4, 9, 20],
+        "tagovi": ["komedija", "krimi"]
+    }
+
+]
